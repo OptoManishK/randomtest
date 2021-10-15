@@ -30,7 +30,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-import crossbill as crossbill
+`import crossbill as crossbill`
+`import python as py`
 import python as py
 ```
 
