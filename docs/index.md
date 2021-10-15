@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block - markdown theme
 
+import numpy as np
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -28,6 +30,8 @@ Syntax highlighted code block - markdown theme
 
 ```python
 Syntax highlighted code block - python theme
+
+import numpy as np
 
 # Header 1
 ## Header 2
