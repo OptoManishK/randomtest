@@ -1,6 +1,6 @@
 ## Welcome visitor! 
 
-Nothing to see here - go back to work!
+This is gh-pages index file, but nothing to see here - go back to work!
 
 You can use the [editor on GitHub](https://github.com/OptoManishK/randomtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
