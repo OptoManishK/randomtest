@@ -1,4 +1,4 @@
-## Welcome visitor! 
+## Welcome to gh-pages index! 
 
 This is gh-pages index file, but nothing to see here - go back to work!
 
