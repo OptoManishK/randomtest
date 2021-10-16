@@ -1,5 +1,5 @@
 # randomtest
-just a bunch of random experimentations
+This is main branch readme.
 
 
 ## 1st thingy
