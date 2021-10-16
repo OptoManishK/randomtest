@@ -1,2 +1,2 @@
-# randomtest
-just a bunch of random experimentations regarding github pages
+# random gh-page test
+this is gh-pages readme.
