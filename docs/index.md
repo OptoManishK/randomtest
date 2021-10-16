@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages new docs index
+
+This is index.md file in gh-pages/docs
 
 You can use the [editor on GitHub](https://github.com/OptoManishK/randomtest/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
