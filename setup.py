@@ -2,8 +2,8 @@ from setuptools import setup
 
 def readme():
     with open('garbage.txt') as f:
-        return f.read()
+        l = f.read()
+        print(l)
+        return l
 
-setup(
-  long_description=readme(),
-  include_package_data=True)
+setup(include_package_data=True)
