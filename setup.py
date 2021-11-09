@@ -6,4 +6,5 @@ def readme():
         print(l)
         return l
 
-setup(include_package_data=True)
+setup(include_package_data=True,
+     package_data={'': ['docs/*.txt']})
