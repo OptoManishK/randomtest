@@ -1,2 +1,2 @@
-def printit():
-  print("Hi!")
+def myprint():
+  print('Hi')
