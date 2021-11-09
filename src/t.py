@@ -8,3 +8,4 @@ def mytext():
   with open('docs/garbage.txt') as f:
     lines = f.readlines()
     print(lines)
+  print('That is all. Thank you.')
