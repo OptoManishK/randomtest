@@ -1,1 +1,4 @@
 include src/docs/*.txt
+include garbage.txt
+recursive-include data *
+recursive-include docs *
