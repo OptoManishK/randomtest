@@ -1,3 +1,5 @@
+import pkg_resources
+
 def myprint():
   print('Hi')
 
