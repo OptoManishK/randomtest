@@ -1,4 +1,0 @@
-include src/docs/*.txt
-global-include garbage.txt
-#recursive-include data *
-#recursive-include docs *
